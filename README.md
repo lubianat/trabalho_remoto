@@ -29,19 +29,19 @@ Se não tem ninguém do seu lado olhando se você foi ao trabalho ou não, a res
 Não tendo pessoas do seu lado pra você consultar sobre como proceder na situação Y ou qual a versão atual do arquivo X ou de onde veio o dado Z, é importante que tudo isso esteja documentado (assim as pessoas podem ler a documentação quando você estiver dormindo).
 - Se alguém tem uma dúvida, ela pode aparecer de novo e a pessoa que sabe a resposta vai estar dormindo. Em vez de explicar algo verbalmente ou por mensagem, documente.
 - Um princípio (mais extremo) é que se alguma coisa não está na documentação ou nos protocolos, essa coisa não existe.
-- Para a Hack Week, temos uma wiki, associada ao [repositório do evento na OSF][10], que participantes podem editar (se você está participando do evento e não criou uma conta na OSF ainda, [clique aqui para se cadastrar][11], depois nos avise para te adicionarmos no repositório).
-- Cada grupo/projeto deve ter uma página nessa wiki. Recomendamos que essa página seja sempre atualizada, e no mínimo sirva de índice: uma lista de links para outras páginas, documentos compartilhados, pads, código, etc. A ideia é que a partir dessa página seja possível achar tudo que for necessário para trabalhar no projeto.
+- Uma boa opção para documentação aberta que inclua dados de pesquisa  o Open Science Framework (OSF). Se você está quiser criar uma conta na OSF, [clique aqui][11].
+- Independente de onde a documentação for feita,  é importante que esteja sempre atualizada, e no mínimo sirva de índice: uma lista de links para outras páginas, documentos compartilhados, pads, código, etc. A ideia é que a partir dessa página seja possível achar tudo que for necessário para trabalhar no projeto.
 
 #### Comunicação
 Se as pessoas não estão do seu lado, pessoalmente, a maior parte da comunicação vai ser via texto. E texto é desprovido das nuances de linguagem não-verbal. Então se torna central usar bem os meios de comunicação, para prevenir que as expectativas mal-comunicadas estraguem tanto o trabalho quanto as relações interpessoais.
 - Todo mundo está dormindo, então não espere respostas imediatas.
 - Use emojis. Isso lembra as pessoas que parte da mensagem não é transmissível por canais puramente textuais. E [assuma a boa intenção das pessoas][12].
 - Existem várias funções diferentes dentro do guarda-chuva "comunicação". E existem canais e condições apropriadas pra cada uma (que por sua vez, tem que ser comunicados de antemão).
-- Comunicação formal: contratos, documentos, certificados e afins. Na Hack Week, usaremos o e-mail para essa função.
-- Comunicação informal, com permanência: a comunicação informal que diz respeito ao trabalho do grupo e que você vai querer ver depois - é importante que seja possível buscar nas mensagens. Idealmente, o que aparece aqui é documentado depois. Na Hack Week, recomendamos que toda a comunicação desse tipo seja via Slack. Isso permite que a organização acompanhe assincronamente o trabalho dos grupos e que haja comunicação entre os grupos ou mesmo com as pessoas da nossa comunidade no Slack que não estão participando da Hack Week mas tem algo pontual a contribuir ou algum pitaco pra dar. No momento oportuno, criaremos um canal no Slack para cada um dos grupos.
-- Comunicação não-relacionada ao projeto: pra isso recomendamos o Telegram e, relutantemente, o WhatsApp - ambos autores desse manual acreditam que o Telegram é o app superior aqui. :)
-- Como dito acima, é importante que questões do projeto não sejam discutidas por Telegram/WhatsApp. Memes, críticas a organização e fofocas gerais se encaixam aqui.
-- Comunicação complexa: quando houverem muitas discordâncias, quando decisões complexas precisam ser tomadas, quando existe algum mal entendido a se resolver, quando os canais de texto não forem suficientes ... Nesses casos, use reuniões por vídeo (com ressalvas, veja abaixo). Para isso, na Hack Week, usaremos o Zoom - para eventos gerais, da programação - e um link fixo do Google Meet para cada grupo.
+- Comunicação formal: contratos, documentos, certificados e afins. Para isso, o e-mail  uma boa opção, pois tem maior estabilidade, e já está em uso corrente (inclusive legal) há décadas.
+- Comunicação informal, com permanência: a comunicação informal que diz respeito ao trabalho do grupo e que você vai querer ver depois - é importante que seja possível buscar nas mensagens. Idealmente, o que aparece aqui é documentado depois. Uma abordagem que tem sido adotada para comunicação desse tipo é via Slack. Isso permite que orientadores e demais membros do laboratório consigam acessar assincronamente o trabalho de cada projeto. També permite que haja comunicação entre os grupos ou com outras pessoas que façam parte do laboratório, facilitando colaborações internas.
+- Comunicação não-relacionada ao projeto ou comunicações imediatas: pra isso recomendamos o Telegram e, relutantemente, o WhatsApp - ambos autores desse manual acreditam que o Telegram é o app superior aqui. :) Caso algo apareça no Telegram/WhatsApp que seja de interesse coletivo, vale repassar a mensagem do Slack, ou até via e-mail. 
+- Como dito acima, é importante que questões centrais do projeto não sejam discutidas por Telegram/WhatsApp. Memes, críticas a organização e fofocas gerais se encaixam aqui.
+- Comunicação complexa: quando houverem muitas discordâncias, quando decisões complexas precisam ser tomadas, quando existe algum mal entendido a se resolver, quando os canais de texto não forem suficientes ... Nesses casos, use reuniões por vídeo (com ressalvas, veja abaixo). 
 
 #### Reuniões
 Uma piada recorrente do mundo corporativo é ["sobrevivi a mais uma reunião que devia ter sido um email"][13]. Por extensão, um monte de gente deve "sobreviver a emails que deviam ter sido uma mensagem" e "sobreviver a uma enquete quando a pessoa devia ter decidido sozinha". Existem [argumentos contra reuniões][14] mesmo em ambientes co-localizados de trabalho.
@@ -52,20 +52,19 @@ Uma piada recorrente do mundo corporativo é ["sobrevivi a mais uma reunião que
 - Vale lembrar também que reuniões por vídeo são ruins por outras razões (por exemplo, não são buscáveis - é difícil saber o que alguém falou sem reassistir o vídeo). Isso nos leva ao próximo tópico.
 
 #### Como fazer reuniões
-Para que elas sejam tão efetivas quanto é possível, uma vez que você marque uma reunião, é sua responsabilidade fazer com que ela funcione. Os pontos abaixo valem para a Hack Week (mas tem aplicação mais ampla).
-- Tenha sempre uma pauta para a reunião. Um documento compartilhado (Google Docs ou pad) com os tópicos a serem discutidos.
+Para que elas sejam tão efetivas quanto é possível, uma vez que você marque uma reunião, é sua responsabilidade fazer com que ela funcione. Aqui juntamos pontos cruciais: 
+- Tenha sempre uma pauta para a reunião. Um documento compartilhado (Google Docs ou pad) com os tópicos a serem discutidos. Pré-alocar um tempo para cada tópico também faz milagres na eficiência da reunião. 
 - Faça uma ata do que foi discutido e tome notas dos pontos importantes e tarefas definidas na reunião.
-- Faça a ata **durante** a reunião. Se deixar pra depois você vai ter que vencer a preguiça (assumindo que você lembre tudo o que foi discutido).
+- Faça a ata **durante** a reunião. Se deixar pra depois você vai ter que vencer a preguiça (isso assumindo que você lembre tudo o que foi discutido). 
 - Reuniões tem que ter horário de início e fim, e eles devem ser seguidos pontualmente. Isso respeita o tempo das outras pessoas e permite que todo mundo se planeje em torno das reuniões.
-- Recomendamos que as reuniões sejam planejadas com uma sobra na duração (e.g. reuniões de 1 hora acabam em :50 minutos, reuniões de 30 min acabam em 25). Isso dá tempo para as pessoas entre reuniões. Recomendamos que esse tempo (opcionalmente) seja também usado com "break" (veja o próximo tópico).
+- Recomendamos que as reuniões sejam planejadas com uma sobra na duração (e.g. reuniões de 1 hora acabam em :50 minutos, reuniões de 30 min acabam em 25). Isso dá tempo para as pessoas entre reuniões. Recomendamos que esse tempo (opcionalmente) seja também usado com "break" (veja o tópico de "Social estruturado").
 - Grave reuniões importantes. Mas isso não é substituto pra ata - ler ou buscar uma informação num documento é muito mais eficiente do que reassistir 1 hora de reunião (ninguém reassiste, não vamos nos enganar). E qualquer coisa que precisa ser lembrada depois tem que ser enviada por chat (e.g. links importantes).
 
 #### Organização do projeto
-Os projetos da Hack Week serão conduzidos remotamente e de forma distribuída, sem supervisão direta. Então é importante ter alguma estrutura na organização, para que as pessoas saibam o que fazer e as responsabilidades de cada pessoa fiquem claras, assim como o plano para o projeto.
-- Como dito acima, cada projeto deve ter uma página na [wiki][16] que sirva de índice para os arquivos de trabalho e outras coisas relevantes.
-- Essa página deve conter também um plano de trabalho: um curto resumo do que é a ideia do projeto e que etapas planeja-se executar durante a Hack Week.
-- Recomendamos que cada grupo tenha um "gerente". Essa pessoa não é dona do grupo, só é responsável por marcar e conduzir reuniões ou manter a wiki atualizada.
-- Recomendamos ter um "porta-voz" do grupo. Essa pessoa fica automaticamente responsável pela comunicação com a comissão organizadora, quando necessário.
+Para projetos conduzidos remotamente e de forma distribuída, fica mais difícil a supervisão direta. Então é importante ter alguma estrutura na organização, para que as pessoas saibam o que fazer e as responsabilidades de cada pessoa fiquem claras, assim como o plano para o projeto.
+- Como dito acima, cada projeto deve ter uma página  de documentação que sirva de índice para os arquivos de trabalho e outras coisas relevantes.
+- Recomendamos que cada grupo de trabalho tenha tenha um "gerente". Essa pessoa não é dona do grupo, só é responsável por marcar e conduzir reuniões ou manter a documentação atualizada.
+
 
 #### Social estruturado
 Aqui chegamos ao grande problema do trabalho remoto: a falta do aspecto social do trabalho. Bom, na verdade, o que falta é o aspecto ["serendipituoso"][17] do social. Num esquema totalmente remoto, não existe o local de almoço compartilhado ou o encontro não-planejado pelo corredor que mantém as relações interpessoais. Também não existe o conjunto de experiências que quebram o gelo entre pessoas que não se conhecem. Pra que o trabalho remoto funcione, o aspecto social tem que ser promovido intencionalmente.
@@ -73,7 +72,7 @@ Com base nisso (e no fato de que trabalho remoto é novidade pra muita gente) é
 Num ambiente de trabalho remoto de longo prazo, esses eventos sociais podem tomar uma variedade de formas: minutos reservados no fim das reuniões para "small talk" (o "break" mencionado na seção sobre reuniões), apresentações de pessoas recém-integradas a um grupo, vídeo chamadas para jogos, horários combinados para trabalhar sincronamente, etc (a [GitLab][18] e a [Zapier][19] contém várias outras sugestões). Em resumo, é importante que todos os momentos síncronos sejam vistos como sociais, como oportunidade para conhecer os outros, já que para o trabalho em si a interação é só com um avatar na tela que te manda mensagens (quando não está dormindo).
     
 #### Lista curada de ferramentas que podem ser úteis
-Na Hack Week, faremos uso "oficial" apenas do Zoom, Google Meet, Slack, OSF e email. Dito isso, essas não são as únicas nem as melhores ferramentas disponíveis - a escolhaé resultante de tentar evitar apresentar várias ferramentas diferentes com as quais as pessoas não estão familiarizadas. O uso de outras ferramentas no trabalho dos grupos fica a cargo dos próprios grupos. E de qualquer forma, você pode achar a lista útil pro futuro além da Hack Week.
+Segue uma lista de ferramentas aqui que conhecemos e podem ser úteis. Contudo, cuidado! Há muitas ferramentas e  fácil cair em paralisia por análise ou [bike-shedding][39]. Escolha alguma para trabalhar e vá aprendendo sobre as outras com calma. 
 
 **Vídeo-chamadas:**
 - [Zoom][20]: é o que todo mundo anda usando, aparentemente. Tem um plano gratuito com algumas limitações. Parece ter superado os problemas de segurança. Funciona no navegador ou baixando o cliente próprio deles para o seu sistema.
@@ -147,3 +146,4 @@ Ele foi originalmente pensado para um evento de "mutirão" de  projetos científ
   [36]: https://www.friday.app/asynchronous-miscommunication
   [37]: https://twist.com/remote-work-guides
   [38]: https://osf.io/s8bmp/wiki/Guia%20de%20Trabalho%20Remoto/
+  [39]: https://en.wikipedia.org/wiki/Law_of_triviality
