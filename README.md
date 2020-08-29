@@ -4,23 +4,26 @@
 Trabalho remoto é uma tendência recente e para muitas pessoas na academia é uma novidade [trazida pela pandemia][1] - sem muito aviso prévio e tempo de preparação. E, diferente da ciência biomédica de bancada, a ciência "no-budget" ([na nossa definição][2]) se presta a ser realizada remotamente. Esse guia tem como objetivo descrever princípios em torno dos quais o trabalho remoto funciona, com foco nas dinâmicas de grupos de pesquisa. 
 Fazer tudo do mesmo jeito que você faria se estivesse no laboratório pode até funcionar, mas é ineficiente e não aproveita as vantagens do remoto.
 
-Para além da Hack Week, vale considerar que saber trabalhar remotamente é uma habilidade transferível importante. Parece existir uma tendência no mercado de trabalho na direção de trabalho remoto - sem dúvida impulsionada pela necessidade [durante a pandemia][3]. As vantagens mais óbvias para quem trabalha remotamente é não ter mais o translado diário casa-trabalho, ter horários flexíveis e não ter que se mudar por causa de uma oportunidade de emprego (na Estônia, você pode ser [nômade digital][4]). Pra quem contrata, a vantagem é não ter que manter um espaço físico e poder contratar de qualquer lugar do mundo. E parece que a academia não vai escapar da tendência: muita gente foi apresentada ao trabalho remoto recentemente, mas a [discussão na academia][5] [vem de antes][6].
+Saber trabalhar remotamente é uma habilidade transferível importante, dentro ou fora da academia. Existe uma tendência no mercado de trabalho na direção de trabalho remoto - sem dúvida impulsionada pela necessidade [durante a pandemia][3]. As vantagens mais claras para a pessoa que contrata são fugir do translado diário casa-trabalho, ter horários flexíveis e não ter que se mudar por causa de uma oportunidade de emprego (na Estônia, você pode ser [nômade digital][4]). Pra quem contrata, a vantagem é não ter que manter um espaço físico e poder contratar de qualquer lugar do mundo. 
+
+E, parece que a academia está no mesmo caminho: apesar de muito pesquisador ser apresentado ao trabalho remoto recentemente, a [discussão na academia][5] [vem de antes][6].
 
 #### Funcionando assincronamente
 
 Talvez o princípio central do trabalho remoto seja a assincronia. Num laboratório, você teria as pessoas trabalhando ao mesmo tempo. Remotamente, você tem que trabalhar como se todos as pessoas que trabalham com você estivessem dormindo (e reciprocamente, como se você fosse estar dormindo quando elas estiverem trabalhando).
 Pra isso funcionar, entram os outros princípios abaixo. 
 
-#### Responsabilidade > Rigidez
+#### Responsabilidade vale mais que rigidez
+
 Se não tem ninguém do seu lado olhando se você foi ao trabalho ou não, a responsabilidade sobre como e quando você trabalha é toda sua. Isso significa:
-- Horários flexíveis: você pode trabalhar [quando e como preferir][7] sem que te julguem por essas escolhas. E claro, você não deve julgar as escolhas de horários das outras pessoas.
-- Igualmente, também cabe a você dizer quando você precisa de um intervalo, descanso ou quando parar de trabalhar - e descanso é essencial pra produtividade.
-- O corolário disso é que o que importa são os resultados obtidos e não a quantidade de horas trabalhadas (e muito menos exatamente que horas foram trabalhadas).
-- Se torna importante avisar dos seus horários de disponibilidade, pra que seu grupo de trabalho possa se planejar quando necessário. Avise pelo status ou por uma mensagem do Slack.
-- Dependendo do seu ambiente de trabalho, pode também ser importante você ter um sinal para avisar as pessoas que moram com você quando você está trabalhando (e.g. um chapéu ou uma porta aberta/fechada).
-- Se você não pode consultar colegas em tempo real antes de uma decisão, é importante que você tome as decisões - desde que elas sejam fáceis de reverter, não tem problema. Deixe pra discutir e deliberar longamente só sobre as decisões que tem um custo alto para serem desfeitas. Na Wikipédia, existe um princípio análogo, o ["be bold"][8].
-- Vale se preocupar com a sua postura e condição de trabalho também (passar horas ininterruptas em frente ao computador vai ter um custo lá na frente). [O guia de bem-estar da BioCuration tem boas dicas][9].
-- Na Hack Week, a programação da segunda semana (a semana de hacking) é bem livre. Estaremos disponíveis durante as tardes, mas a ideia é que os grupos se organizem por conta própria, trabalhem nos seus horários e marquem reuniões de mentoria com a organização conforme for necessário.
+- Horário de trabalho flexíveis: você pode trabalhar [quando e como preferir][7] sem que te julguem por essas escolhas. E claro, você não deve julgar as escolhas de horários das outras pessoas.
+- Horário de descanso flexível: também cabe a você dizer quando você precisa de um intervalo, descanso ou quando parar de trabalhar - e descanso é essencial pra produtividade.
+    -O corolário disso é que o que importa são os resultados obtidos e não a quantidade de horas trabalhadas (e muito menos exatamente que horas foram trabalhadas).
+- Comunicação com a equipe: se torna importante avisar dos seus horários de disponibilidade, pra que seu grupo de trabalho possa se planejar quando necessário. Avise pelo status ou por uma mensagem do Slack.
+- Comunicação com coabitantes: dependendo do seu ambiente de trabalho, pode também ser importante você ter um sinal para avisar as pessoas que moram com você quando você está trabalhando (e.g. um chapéu ou uma porta aberta/fechada).
+- Proatividade: Se você não pode consultar colegas em tempo real antes de uma decisão, é importante que você tome as decisões - desde que elas sejam fáceis de reverter, não tem problema. deixe pra discutir e deliberar longamente só sobre as decisões que tem um custo alto para serem desfeitas. Na Wikipédia, existe um princípio análogo, o ["be bold"][8].
+- Preocupação com ergonomia: vale se preocupar com a sua postura e condição de trabalho também (passar horas ininterruptas em frente ao computador vai ter um custo lá na frente). [O guia de bem-estar da BioCuration tem boas dicas][9].
+
 
 #### Documentação
 Não tendo pessoas do seu lado pra você consultar sobre como proceder na situação Y ou qual a versão atual do arquivo X ou de onde veio o dado Z, é importante que tudo isso esteja documentado (assim as pessoas podem ler a documentação quando você estiver dormindo).
