@@ -1,7 +1,8 @@
-### **Guia de Trabalho Remoto da No-Budget Science Hack Week**
+### **Guia de Trabalho Remoto para Cientistas brasileiros**
 <hr>
 
-Trabalho remoto é uma tendência recente e para muitas pessoas na academia é uma novidade [trazida pela pandemia][1] - sem muito aviso prévio e tempo de preparação. E, diferente da ciência biomédica de bancada, a ciência "no-budget" ([na nossa definição][2]) se presta a ser realizada remotamente. Esse guia tem como objetivo descrever princípios em torno dos quais o trabalho remoto funciona, além de falar de como isso vai acontecer durante o evento - que ferramentas usaremos e como será o uso delas durante a Hack Week. Fazer tudo do mesmo jeito que você faria se estivesse no laboratório pode até funcionar, mas é ineficiente e não aproveita as vantagens do remoto.
+Trabalho remoto é uma tendência recente e para muitas pessoas na academia é uma novidade [trazida pela pandemia][1] - sem muito aviso prévio e tempo de preparação. E, diferente da ciência biomédica de bancada, a ciência "no-budget" ([na nossa definição][2]) se presta a ser realizada remotamente. Esse guia tem como objetivo descrever princípios em torno dos quais o trabalho remoto funciona, com foco nas dinâmicas de grupos de pesquisa. 
+Fazer tudo do mesmo jeito que você faria se estivesse no laboratório pode até funcionar, mas é ineficiente e não aproveita as vantagens do remoto.
 
 Para além da Hack Week, vale considerar que saber trabalhar remotamente é uma habilidade transferível importante. Parece existir uma tendência no mercado de trabalho na direção de trabalho remoto - sem dúvida impulsionada pela necessidade [durante a pandemia][3]. As vantagens mais óbvias para quem trabalha remotamente é não ter mais o translado diário casa-trabalho, ter horários flexíveis e não ter que se mudar por causa de uma oportunidade de emprego (na Estônia, você pode ser [nômade digital][4]). Pra quem contrata, a vantagem é não ter que manter um espaço físico e poder contratar de qualquer lugar do mundo. E parece que a academia não vai escapar da tendência: muita gente foi apresentada ao trabalho remoto recentemente, mas a [discussão na academia][5] [vem de antes][6].
 
@@ -96,9 +97,13 @@ Repositórios/Documentação:
 
 Esse guia se baseia na nossa experiência (não muito vasta) com trabalho remoto colaborativo e em diversos outros guias e ensaios sobre trabalho remoto (linkados no texto). Em particular, aprendemos muito com o material da [GitLab][34], [Zapier][35], Wikipedia, [Friday.app][36] e [Twist][37] - preparar esse guia foi um grande aprendizado e mudou nossa própria opinião sobre como trabalhar remotamente.
 
-Kleber e Tiago
+Kleber Neves e Tiago Lubiana
 
-Comissão Organizadora, No-Budget Science Hack Week
+# No Budget Science Hack Week 2020 
+
+
+Ele foi originalmente pensado para um evento de "mutirão" de  projetos científicos virtuais,  [No Budget Science Hack Week 2020][2], que aconteceu em agosto de 2020. Se quiserem ver o Guia de Trabalho Remoto voltado para o evento está disponível no [Open Science Framework][38]. ) 
+
 
 
   [1]: https://www.nature.com/articles/d41586-020-01518-y
@@ -138,3 +143,4 @@ Comissão Organizadora, No-Budget Science Hack Week
   [35]: https://zapier.com/learn/remote-work/
   [36]: https://www.friday.app/asynchronous-miscommunication
   [37]: https://twist.com/remote-work-guides
+  [38]: https://osf.io/s8bmp/wiki/Guia%20de%20Trabalho%20Remoto/
