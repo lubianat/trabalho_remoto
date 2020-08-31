@@ -77,7 +77,7 @@ Segue uma lista de ferramentas aqui que conhecemos e podem ser úteis. Contudo, 
 **Vídeo-chamadas:**
 - [Zoom][20]: é o que todo mundo anda usando, aparentemente. Tem um plano gratuito com algumas limitações. Parece ter superado os problemas de segurança. Funciona no navegador ou baixando o cliente próprio deles para o seu sistema.
 - [Google Meet][21]: tem a vantagem de ser gratuito. Não tem tantos recursos quanto a versão paga do Zoom. Também funciona no navegador.
-- [Jitsi][22]: similar ao Meet, mas com o apelo de ser de código aberto e ter foco em privacidade e segurança. ["Free as in freedom"][23]. Também funciona no navegador.
+- [Jitsi][22]: similar ao Meet, mas com o apelo de ser de código aberto e ter foco em privacidade e segurança. ["Free as in freedom"][23]. Também funciona no navegador, mas há relatos informais sobre lentidão em conversas com muitas pessoas. 
 
 **Comunicação estruturada:**
 - [Slack][24]: permite a criação de canais e threads para separar assuntos. Guarda suas mensagens, permite anexos, tem integração com vários outros softwares (e.g. Dropbox, GitHub, etc). Na versão paga, tem também canais de vídeo e voz.
@@ -85,7 +85,7 @@ Segue uma lista de ferramentas aqui que conhecemos e podem ser úteis. Contudo, 
 Repositórios/Documentação:
 - [Open Science Framework][26]: repositório de dados e documentos para uma ciência mais aberta. Todo projeto na OSF vem com armazenamento e uma wiki. Gratuito, também tem umas conveniências para pesquisa, como fazer pré-registro de protocolos e postar preprints, além de integração com outros serviços (Google Drive, GitHub).
 - Wikis: o formato popularizado pela Wikipédia, é excelente pra organizar documentos interligados.
-- [GitHub][27]: o lugar universal de facto pra disponibilizar código. Se você programa ou pretende começar em breve, vale conhecer. Embora não obrigatório na Hack Week, se torna obrigatório caso o projeto possua código. :)
+- [GitHub][27]: o lugar universal de facto pra disponibilizar código. Se você programa ou pretende começar em breve, vale conhecer. Além disso, o GitHub tem diversas ferramentas para gerenciamento de projetos, incluindo "Kanbans" como o Trello (ver abaixo)
 - [Trello][28]: um app muito usado para gerenciamento de projeto/tarefas no esquema de Kanban, com cartões virtuais sendo movidos de "To Do" para "Doing" para "Done". A versão gratuita funciona bem para grupos pequenos.
 
 **Quadros brancos:**
