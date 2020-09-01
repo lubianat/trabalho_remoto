@@ -14,6 +14,7 @@ Talvez o princípio central do trabalho remoto seja a assincronia. Num laborató
 #### Responsabilidade vale mais que rigidez
 
 Se não tem ninguém do seu lado olhando se você foi ao trabalho ou não, a responsabilidade sobre como e quando você trabalha é toda sua. Isso significa:
+
 - Horário de trabalho flexível: você pode trabalhar [quando e como preferir][7] sem que te julguem por essas escolhas. E claro, você não deve julgar as escolhas de horários das outras pessoas.
 - Horário de descanso flexível: também cabe a você dizer quando você precisa de um intervalo, descanso ou quando parar de trabalhar - e descanso é essencial pra produtividade.
 -O corolário disso é que o que importa são os resultados obtidos e não a quantidade de horas trabalhadas (e muito menos exatamente que horas foram trabalhadas).
@@ -27,6 +28,7 @@ Se não tem ninguém do seu lado olhando se você foi ao trabalho ou não, a res
 
 #### Documentação
 Não tendo pessoas do seu lado pra você consultar sobre como proceder na situação Y ou qual a versão atual do arquivo X ou de onde veio o dado Z, é importante que tudo isso esteja documentado (assim as pessoas podem ler a documentação quando você estiver dormindo).
+
 - Se alguém tem uma dúvida, ela pode aparecer de novo e a pessoa que sabe a resposta vai estar dormindo. Em vez de explicar algo verbalmente ou por mensagem, documente.
 - Um princípio (mais extremo) é que se alguma coisa não está na documentação ou nos protocolos, essa coisa não existe.
 - Um outro princípio é documentar de modo que uma pessoa que desconheça os procedimentos consiga, só a partir da documentação, se integrar ao trabalho da equipe sem grandes problemas ou refazer os seus passos pra chegar no mesmo resultado. Esse princípio não é hipotético: caso alguma pessoa nova entre na equipe ou alguém comece a lidar com uma tarefa nova, uma boa documentação vai poupar a necessidade de sincronizar o trabalho para que alguém demonstre como fazer as coisas.
@@ -35,6 +37,7 @@ Não tendo pessoas do seu lado pra você consultar sobre como proceder na situa�
 
 #### Comunicação
 Se as pessoas não estão do seu lado, pessoalmente, a maior parte da comunicação vai ser via texto. E texto é desprovido das nuances de linguagem não-verbal. Então se torna central usar bem os meios de comunicação, para prevenir que as expectativas mal-comunicadas estraguem tanto o trabalho quanto as relações interpessoais.
+
 - Todo mundo está dormindo, então não espere respostas imediatas.
 - Use emojis. Isso lembra as pessoas que parte da mensagem não é transmissível por canais puramente textuais. E [assuma a boa intenção das pessoas][12].
 - Existem várias funções diferentes dentro do guarda-chuva "comunicação". E existem canais e condições apropriadas pra cada uma (que por sua vez, tem que ser comunicados de antemão).
@@ -46,6 +49,7 @@ Se as pessoas não estão do seu lado, pessoalmente, a maior parte da comunicaç
 
 #### Reuniões
 Uma piada recorrente do mundo corporativo é ["sobrevivi a mais uma reunião que devia ter sido um email"][13]. Por extensão, um monte de gente deve "sobreviver a emails que deviam ter sido uma mensagem" e "sobreviver a uma enquete quando a pessoa devia ter decidido sozinha". Existem [argumentos contra reuniões][14] mesmo em ambientes co-localizados de trabalho.
+
 - Use reuniões por vídeo como último recurso.
 - Não marque reuniões [desnecessariamente][15] (e tudo bem desmarcar reuniões que não são mais necessárias).
 - Por exemplo, se alguém tem que fazer uma apresentação pra demonstrar como usar uma ferramenta, não é necessário que todo mundo esteja online ao mesmo tempo vendo a apresentação. A pessoa pode gravar o vídeo antes, quem precisar assiste no seu tempo. A reunião pode ser encurtada e ter apenas as perguntas/discussão sobre a apresentação. Brainstorming não precisa de todo mundo junto, pode ser por um documento compartilhado (veja a seção de ferramentas no final). Updates regulares do projeto podem ser dados por escrito (dá até pra gerar lembretes).
@@ -53,6 +57,7 @@ Uma piada recorrente do mundo corporativo é ["sobrevivi a mais uma reunião que
 
 #### Como fazer reuniões
 Para que elas sejam tão efetivas quanto é possível, uma vez que você marque uma reunião, é sua responsabilidade fazer com que ela funcione. Aqui juntamos pontos cruciais: 
+
 - Tenha sempre uma pauta para a reunião. Um documento compartilhado (Google Docs ou pad) com os tópicos a serem discutidos. Pré-alocar um tempo para cada tópico também faz milagres na eficiência da reunião.
 - Faça uma ata do que foi discutido e tome notas dos pontos importantes e tarefas definidas na reunião.
 - Faça a ata *durante* a reunião. Se deixar pra depois você vai ter que vencer a preguiça (isso assumindo que você lembre tudo o que foi discutido). 
@@ -62,7 +67,8 @@ Para que elas sejam tão efetivas quanto é possível, uma vez que você marque 
 
 #### Organização do projeto
 Para projetos conduzidos remotamente e de forma distribuída, fica mais difícil a supervisão direta. Então é importante ter alguma estrutura na organização, para que as pessoas saibam o que fazer e as responsabilidades de cada pessoa fiquem claras, assim como o plano para o projeto.
-- Como dito acima, é importante que projetos tenham alguma página central de documentação que sirva de índice para os arquivos de trabalho e outras coisas relevantes. Normalmente isso vive na memória das pessoas envolvidas, é preciso tornar isso explícito.
+
+Como dito acima, é importante que projetos tenham alguma página central de documentação que sirva de índice para os arquivos de trabalho e outras coisas relevantes. Normalmente isso vive na memória das pessoas envolvidas, é preciso tornar isso explícito.
 
 #### Social estruturado
 Aqui chegamos ao grande problema do trabalho remoto: a falta do aspecto social do trabalho. Bom, na verdade, o que falta é o aspecto ["serendipituoso"][17] do social. Num esquema totalmente remoto, não existe o local de almoço compartilhado ou o encontro não-planejado pelo corredor para manter as relações interpessoais. Também não existem experiências que organicamente quebram o gelo entre pessoas que não se conhecem. Pra que o trabalho remoto funcione, a solução é promover intencionalmente o aspecto social (o que pode parecer pouco natural num primeiro momento - e até que é).
@@ -89,11 +95,13 @@ Uma outra preocupação é com a integração de pessoas novas à equipe. Tem um
 Segue uma lista de ferramentas aqui que conhecemos e podem ser úteis. Contudo, cuidado! Há muitas ferramentas e fácil cair em paralisia por análise ou [bike-shedding][39]. Escolha alguma para trabalhar e vá aprendendo sobre as outras com calma. 
 
 **Vídeo-chamadas:**
+
 - [Zoom][20]: é o que todo mundo anda usando, aparentemente. Tem um plano gratuito com algumas limitações. Parece ter superado os problemas de segurança. Funciona no navegador ou baixando o cliente próprio deles para o seu sistema.
 - [Google Meet][21]: tem a vantagem de ser gratuito. Não tem tantos recursos quanto a versão paga do Zoom. Também funciona no navegador.
 - [Jitsi][22]: similar ao Meet, mas com o apelo de ser de código aberto e ter foco em privacidade e segurança. ["Free as in freedom"][23]. Também funciona no navegador, mas há relatos informais sobre lentidão em conversas com muitas pessoas. 
 
 **Comunicação estruturada:**
+
 - [Slack][24]: permite a criação de canais e threads para separar assuntos. Guarda suas mensagens, permite anexos, tem integração com vários outros softwares (e.g. Dropbox, GitHub, etc). Na versão paga, tem também canais de vídeo e voz.
 - [Discord][25]: faz tudo que o Slack faz e também chamada de vídeo e voz, na versão gratuita. Carrega um pouco da reputação de não ser "sério" porque tem origem na comunidade gamer (embora esteja passando por um rebranding no momento).
 Repositórios/Documentação:
@@ -103,9 +111,11 @@ Repositórios/Documentação:
 - [Trello][28]: um app muito usado para gerenciamento de projeto/tarefas no esquema de Kanban, com cartões virtuais sendo movidos de "To Do" para "Doing" para "Done". A versão gratuita funciona bem para grupos pequenos.
 
 **Quadros brancos:**
+
     - ...
 
 **Colaboração/Compartilhamento de arquivos:**
+
 - [Google Drive/Docs][29]: como todo mundo já tem uma conta do Google mesmo, se torna conveniente usar o Drive e os editores associados (Docs, Sheets, Slides) pra trabalhar colaborativamente e compartilhar documentos (e outros arquivos de trabalho).
 - [Dropbox][30]: serviço de armazenamento também bem usado (a versão gratuita dá menos espaço do que o Google Drive). Tem o Dropbox Paper pra trabalho colaborativo (com uns features extra em relação a um documento simples).
 - [OneDrive + Office][31]: a opção da Microsoft para documentos colaborativos e armazenamento.
@@ -113,7 +123,7 @@ Repositórios/Documentação:
 
 #### Conclusão
 
-Esse guia se baseia na nossa experiência (não muito vasta) com trabalho remoto colaborativo e em diversos outros guias e ensaios sobre trabalho remoto (linkados no texto). Ele foi originalmente pensado para um evento de "mutirão" de  projetos científicos virtuais, a [No Budget Science Hack Week 2020][2], que aconteceu em agosto de 2020, onde muitas dessas ideias foram testadas. Se quiserem ver o Guia de Trabalho Remoto voltado para o evento está disponível no [Open Science Framework][38]. Em particular, aprendemos muito com o material da [GitLab][34], [Zapier][35], Wikipedia, [Friday.app][36] e [Twist][37] - preparar esse guia foi um grande aprendizado e mudou nossa própria opinião sobre como trabalhar remotamente (e não remotamente).
+Esse guia se baseia na nossa experiência (não muito vasta) com trabalho remoto colaborativo e em diversos outros guias e ensaios sobre trabalho remoto (linkados no texto). Ele foi originalmente pensado para um evento de "mutirão" de  projetos científicos virtuais, a [No Budget Science Hack Week 2020][2], que aconteceu em agosto de 2020, onde muitas dessas ideias foram testadas. Se quiserem ver o Guia de Trabalho Remoto voltado para o evento está disponível no [Open Science Framework][38]. Em particular, aprendemos muito com o material da [GitLab][34], [Zapier][35], [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines), [Friday.app][36] e [Twist][37] - preparar esse guia foi um grande aprendizado e mudou nossa própria opinião sobre como trabalhar remotamente (e não remotamente).
 
 Kleber Neves e Tiago Lubiana
 
