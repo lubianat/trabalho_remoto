@@ -63,8 +63,6 @@ Para que elas sejam tão efetivas quanto é possível, uma vez que você marque 
 #### Organização do projeto
 Para projetos conduzidos remotamente e de forma distribuída, fica mais difícil a supervisão direta. Então é importante ter alguma estrutura na organização, para que as pessoas saibam o que fazer e as responsabilidades de cada pessoa fiquem claras, assim como o plano para o projeto.
 - Como dito acima, é importante que projetos tenham alguma página central de documentação que sirva de índice para os arquivos de trabalho e outras coisas relevantes. Normalmente isso vive na memória das pessoas envolvidas, é preciso tornar isso explícito.
-- Recomendamos que cada grupo de trabalho tenha tenha um "gerente". Essa pessoa não é dona do grupo, só é responsável por marcar e conduzir reuniões ou manter a documentação atualizada.
-
 
 #### Social estruturado
 Aqui chegamos ao grande problema do trabalho remoto: a falta do aspecto social do trabalho. Bom, na verdade, o que falta é o aspecto ["serendipituoso"][17] do social. Num esquema totalmente remoto, não existe o local de almoço compartilhado ou o encontro não-planejado pelo corredor para manter as relações interpessoais. Também não existem experiências que organicamente quebram o gelo entre pessoas que não se conhecem. Pra que o trabalho remoto funcione, a solução é promover intencionalmente o aspecto social (o que pode parecer pouco natural num primeiro momento - e até que é).
