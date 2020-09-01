@@ -121,6 +121,11 @@ Repositórios/Documentação:
 - [OneDrive + Office][31]: a opção da Microsoft para documentos colaborativos e armazenamento.
 - [Wikimedia Etherpad][32]: Pads são arquivos de texto simples e colaborativos, online, em tempo real. O serviço é baseado no Etherpad, que também é [*libre*][33].
 
+**Formulários**
+ - [Doodle](https://doodle.com/en/): O Doodle é a ferramenta padrão para encontrar horário para reuniões. Cuidado na hora de usar! Normalmente, para reuniões pequenas, é mais fácil alguém escolher um horário, e todos veem se podem ou não. 
+- [Google Forms](https://docs.google.com/forms/u/0/?tgif=d): É fácil de usar, muito conhecido e devolve resultados em diversos formatos. É a opção "feijão com arroz", que funciona bem para a maioria dos casos. 
+- [Typeform](https://www.typeform.com/product/): Faz o mesmo que o Google Forms, mas com possibilidades de estilização e "experiência" diferentes. Pode ser uma opção para sair do lugar comum, se desejar. 
+
 #### Conclusão
 
 Esse guia se baseia na nossa experiência (não muito vasta) com trabalho remoto colaborativo e em diversos outros guias e ensaios sobre trabalho remoto (linkados no texto). Ele foi originalmente pensado para um evento de "mutirão" de  projetos científicos virtuais, a [No Budget Science Hack Week 2020][2], que aconteceu em agosto de 2020, onde muitas dessas ideias foram testadas. Se quiserem ver o Guia de Trabalho Remoto voltado para o evento está disponível no [Open Science Framework][38]. Em particular, aprendemos muito com o material da [GitLab][34], [Zapier][35], [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines), [Friday.app][36] e [Twist][37] - preparar esse guia foi um grande aprendizado e mudou nossa própria opinião sobre como trabalhar remotamente (e não remotamente).
