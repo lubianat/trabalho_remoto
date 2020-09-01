@@ -111,8 +111,7 @@ Repositórios/Documentação:
 - [Trello][28]: um app muito usado para gerenciamento de projeto/tarefas no esquema de Kanban, com cartões virtuais sendo movidos de "To Do" para "Doing" para "Done". A versão gratuita funciona bem para grupos pequenos.
 
 **Quadros brancos:**
-
-    - ...
+- [Miro](https://miro.com/): O Miro  é uma ferramenta para "brainstorming" e organização de ideias.  A interface tem ótima responsividade e funciona bem para atividades simultâneas, com múltiplos usuários. Dá para adicionar notas, textos, setas, balões e muito mais em um quadro "de borda infinita". A versão gratuita permite poucos quadros, mas serve para fins básicos. 
 
 **Colaboração/Compartilhamento de arquivos:**
 
