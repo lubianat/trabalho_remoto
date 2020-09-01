@@ -29,6 +29,7 @@ Se não tem ninguém do seu lado olhando se você foi ao trabalho ou não, a res
 Não tendo pessoas do seu lado pra você consultar sobre como proceder na situação Y ou qual a versão atual do arquivo X ou de onde veio o dado Z, é importante que tudo isso esteja documentado (assim as pessoas podem ler a documentação quando você estiver dormindo).
 - Se alguém tem uma dúvida, ela pode aparecer de novo e a pessoa que sabe a resposta vai estar dormindo. Em vez de explicar algo verbalmente ou por mensagem, documente.
 - Um princípio (mais extremo) é que se alguma coisa não está na documentação ou nos protocolos, essa coisa não existe.
+- Um outro princípio é documentar de modo que uma pessoa que desconheça os procedimentos consiga, só a partir da documentação, se integrar ao trabalho da equipe sem grandes problemas ou refazer os seus passos pra chegar no mesmo resultado. Esse princípio não é hipotético: caso alguma pessoa nova entre na equipe ou alguém comece a lidar com uma tarefa nova, uma boa documentação vai poupar a necessidade de sincronizar o trabalho para que alguém demonstre como fazer as coisas.
 - Uma boa opção para documentação aberta que inclua dados de pesquisa  o Open Science Framework (OSF). Se você está quiser criar uma conta na OSF, [clique aqui][11].
 - Independente de onde a documentação for feita,  é importante que esteja sempre atualizada, e no mínimo sirva de índice: uma lista de links para outras páginas, documentos compartilhados, pads, código, etc. A ideia é que a partir dessa página seja possível achar tudo que for necessário para trabalhar no projeto.
 
@@ -75,6 +76,8 @@ Num ambiente de trabalho remoto regular, de longo prazo, esses momentos sociais 
 - **Playlist compartilhada**: crie uma playlist compartilhada no Spotify ou YouTube para que todo mundo contribua com músicas que tem ouvido.
 - **Corredor virtual**: antes/depois de uma palestra ou conferência, as pessoas são distribuídas em pequenos grupos pra discutirem tópicos não relacionados a trabalho, como se fosse um encontro no corredor.
 - **Chamadas de coworking**: combine um horário com outra pessoa para trabalhar ao mesmo tempo numa tarefa que não exija tanta concentração, enquanto uma chamada de áudio fica no fundo. A ideia é reproduzir a sensação do espaço compartilhado de um escritório ou de uma bancada.
+
+Uma outra preocupação é com a integração de pessoas novas à equipe. Tem um lado técnico e logístico de como conduzir o trabalho: para isso, a documentação é a solução. O outro lado é social, humano. Aqui, alguma estrutura é bem-vinda, promovendo eventos (como os sugeridos acima) para incluir a nova pessoa no time.
     
 #### Lista curada de ferramentas que podem ser úteis
 Segue uma lista de ferramentas aqui que conhecemos e podem ser úteis. Contudo, cuidado! Há muitas ferramentas e fácil cair em paralisia por análise ou [bike-shedding][39]. Escolha alguma para trabalhar e vá aprendendo sobre as outras com calma. 
