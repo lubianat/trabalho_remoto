@@ -1,27 +1,27 @@
 ### **Guia de Trabalho Remoto para Cientistas brasileiros**
 <hr>
 
-Trabalho remoto é uma tendência recente e para muitas pessoas na academia é uma novidade [trazida pela pandemia][1] - sem muito aviso prévio e tempo de preparação. E, diferente da ciência biomédica de bancada, a ciência "no-budget" ([na nossa definição][2]) se presta a ser realizada remotamente. Esse guia tem como objetivo descrever princípios em torno dos quais o trabalho remoto funciona, com foco nas dinâmicas de grupos de pesquisa. 
-Fazer tudo do mesmo jeito que você faria se estivesse no laboratório pode até funcionar, mas é ineficiente e não aproveita as vantagens do remoto.
+Trabalho remoto é uma tendência recente e para muitas pessoas na academia é uma novidade [trazida pela pandemia][1] - sem muito aviso prévio e tempo de preparação. Esse guia tem como objetivo descrever princípios em torno dos quais o trabalho remoto funciona, com foco nas dinâmicas de grupos de pesquisa, em particular pesquisa "no-budget" ([na nossa definição][2]), que não exige co-localização. Fazer tudo do mesmo jeito que você faria se estivesse no laboratório pode até funcionar, mas é ineficiente e não aproveita as vantagens do remoto. Trabalho remoto pode ser melhor do que só "a nossa reunião semanal agora é no Zoom".
 
 Saber trabalhar remotamente é uma habilidade transferível importante, dentro ou fora da academia. Existe uma tendência no mercado de trabalho na direção de trabalho remoto - sem dúvida impulsionada pela necessidade [durante a pandemia][3]. As vantagens mais claras para a pessoa que contrata são fugir do translado diário casa-trabalho, ter horários flexíveis e não ter que se mudar por causa de uma oportunidade de emprego (na Estônia, você pode ser [nômade digital][4]). Pra quem contrata, a vantagem é não ter que manter um espaço físico e poder contratar de qualquer lugar do mundo. 
 
-E, parece que a academia está no mesmo caminho: apesar de muito pesquisador ser apresentado ao trabalho remoto recentemente, a [discussão na academia][5] [vem de antes][6].
+A academia parece estar no mesmo caminho: apesar de muitos pesquisadores terem sido apresentados ao trabalho remoto recentemente, a [discussão na academia][5] [vem de antes][6]. Além disso, mesmo quando o trabalho é fisicamente localizado (e.g. experimentos de bancada), ainda existem aspectos e momentos remotos do trabalho (e.g. escrever artigos, teses, planejar experimentos). E muitas das dicas desse guia são úteis para refletir sobre o nosso jeito de trabalhar, seja ele localizado ou remoto.
 
 #### Funcionando assincronamente
 
-Talvez o princípio central do trabalho remoto seja a assincronia. Num laboratório, você teria as pessoas trabalhando ao mesmo tempo. Remotamente, você tem que trabalhar como se todos as pessoas que trabalham com você estivessem dormindo (e reciprocamente, como se você fosse estar dormindo quando elas estiverem trabalhando).
-Pra isso funcionar, entram os outros princípios abaixo. 
+Talvez o princípio central do trabalho remoto seja a assincronia. Num laboratório, você teria as pessoas trabalhando ao mesmo tempo. Remotamente, você tem que trabalhar como se todos as pessoas que trabalham com você estivessem dormindo (e reciprocamente, como se você fosse estar dormindo quando elas estiverem trabalhando). Pra isso funcionar, entram os outros princípios abaixo. 
 
 #### Responsabilidade vale mais que rigidez
 
 Se não tem ninguém do seu lado olhando se você foi ao trabalho ou não, a responsabilidade sobre como e quando você trabalha é toda sua. Isso significa:
-- Horário de trabalho flexíveis: você pode trabalhar [quando e como preferir][7] sem que te julguem por essas escolhas. E claro, você não deve julgar as escolhas de horários das outras pessoas.
+- Horário de trabalho flexível: você pode trabalhar [quando e como preferir][7] sem que te julguem por essas escolhas. E claro, você não deve julgar as escolhas de horários das outras pessoas.
 - Horário de descanso flexível: também cabe a você dizer quando você precisa de um intervalo, descanso ou quando parar de trabalhar - e descanso é essencial pra produtividade.
-    -O corolário disso é que o que importa são os resultados obtidos e não a quantidade de horas trabalhadas (e muito menos exatamente que horas foram trabalhadas).
-- Comunicação com a equipe: se torna importante avisar dos seus horários de disponibilidade, pra que seu grupo de trabalho possa se planejar quando necessário. Avise pelo status ou por uma mensagem do Slack.
+-O corolário disso é que o que importa são os resultados obtidos e não a quantidade de horas trabalhadas (e muito menos exatamente que horas foram trabalhadas).
+- Nesse esquema, você não pode esperar que as pessoas estejam disponíveis só porque estamos no "horário de expediente". Se os horários são flexíveis, a ideia de um horário de expediente comum não faz mais sentido.
+- Comunicação com a equipe: se torna importante avisar dos seus horários de disponibilidade, pra que seu grupo de trabalho possa se planejar quando necessário. Isso é facilmente feito por mensagens ou por status apps como o Slack.
 - Comunicação com coabitantes: dependendo do seu ambiente de trabalho, pode também ser importante você ter um sinal para avisar as pessoas que moram com você quando você está trabalhando (e.g. um chapéu ou uma porta aberta/fechada).
-- Proatividade: Se você não pode consultar colegas em tempo real antes de uma decisão, é importante que você tome as decisões - desde que elas sejam fáceis de reverter, não tem problema. deixe pra discutir e deliberar longamente só sobre as decisões que tem um custo alto para serem desfeitas. Na Wikipédia, existe um princípio análogo, o ["be bold"][8].
+- Proatividade: se você não pode consultar colegas em tempo real antes de uma decisão, é importante que você tome as decisões - desde que elas sejam fáceis de reverter, não tem problema. deixe pra discutir e deliberar longamente só sobre as decisões que tem um custo alto para serem desfeitas. Na Wikipédia, existe um princípio análogo, o ["be bold"][8].
+- Proatividade 2: nem todo mundo vai se adaptar do mesmo modo ao trabalho remoto. Despertar a proatividade necessária pode levar algum tempo. Especialmente num momento de transição, aplicar todas essas nossas dicas de um modo muito radical pode ser contraprodutivo.
 - Preocupação com ergonomia: vale se preocupar com a sua postura e condição de trabalho também (passar horas ininterruptas em frente ao computador vai ter um custo lá na frente). [O guia de bem-estar da BioCuration tem boas dicas][9].
 
 
@@ -31,7 +31,7 @@ Não tendo pessoas do seu lado pra você consultar sobre como proceder na situa�
 - Um princípio (mais extremo) é que se alguma coisa não está na documentação ou nos protocolos, essa coisa não existe.
 - Um outro princípio é documentar de modo que uma pessoa que desconheça os procedimentos consiga, só a partir da documentação, se integrar ao trabalho da equipe sem grandes problemas ou refazer os seus passos pra chegar no mesmo resultado. Esse princípio não é hipotético: caso alguma pessoa nova entre na equipe ou alguém comece a lidar com uma tarefa nova, uma boa documentação vai poupar a necessidade de sincronizar o trabalho para que alguém demonstre como fazer as coisas.
 - Uma boa opção para documentação aberta que inclua dados de pesquisa  o Open Science Framework (OSF). Se você está quiser criar uma conta na OSF, [clique aqui][11].
-- Independente de onde a documentação for feita,  é importante que esteja sempre atualizada, e no mínimo sirva de índice: uma lista de links para outras páginas, documentos compartilhados, pads, código, etc. A ideia é que a partir dessa página seja possível achar tudo que for necessário para trabalhar no projeto.
+- Independente de onde a documentação for feita,  é importante que esteja sempre atualizada, e no mínimo sirva de índice: uma lista de links para outras páginas, documentos compartilhados, pads, código, etc. A ideia é que a partir dessa página central seja possível achar tudo que for necessário para trabalhar no projeto.
 
 #### Comunicação
 Se as pessoas não estão do seu lado, pessoalmente, a maior parte da comunicação vai ser via texto. E texto é desprovido das nuances de linguagem não-verbal. Então se torna central usar bem os meios de comunicação, para prevenir que as expectativas mal-comunicadas estraguem tanto o trabalho quanto as relações interpessoais.
@@ -46,10 +46,9 @@ Se as pessoas não estão do seu lado, pessoalmente, a maior parte da comunicaç
 
 #### Reuniões
 Uma piada recorrente do mundo corporativo é ["sobrevivi a mais uma reunião que devia ter sido um email"][13]. Por extensão, um monte de gente deve "sobreviver a emails que deviam ter sido uma mensagem" e "sobreviver a uma enquete quando a pessoa devia ter decidido sozinha". Existem [argumentos contra reuniões][14] mesmo em ambientes co-localizados de trabalho.
-
 - Use reuniões por vídeo como último recurso.
-- Não marque reuniões [desnecessariamente][15] (e tudo bem desmarcar reuniões que não são mais necessárias)
-- Por exemplo, se alguém tem que fazer uma apresentação pra demonstrar como usar uma ferramenta, não é necessário que todo mundo esteja online ao mesmo tempo vendo a apresentação. A pessoa pode gravar o vídeo antes, quem precisar assiste no seu tempo. A reunião pode ser encurtada e ter apenas as perguntas/discussão sobre a apresentação. Brainstorming não precisa de todo mundo junto, pode ser por um documento compartilhado (veja a seção de ferramentas no final). Updates do projeto podem ser dados por escrito.
+- Não marque reuniões [desnecessariamente][15] (e tudo bem desmarcar reuniões que não são mais necessárias).
+- Por exemplo, se alguém tem que fazer uma apresentação pra demonstrar como usar uma ferramenta, não é necessário que todo mundo esteja online ao mesmo tempo vendo a apresentação. A pessoa pode gravar o vídeo antes, quem precisar assiste no seu tempo. A reunião pode ser encurtada e ter apenas as perguntas/discussão sobre a apresentação. Brainstorming não precisa de todo mundo junto, pode ser por um documento compartilhado (veja a seção de ferramentas no final). Updates regulares do projeto podem ser dados por escrito.
 - Vale lembrar também que reuniões por vídeo são ruins por outras razões (por exemplo, não são buscáveis - é difícil saber o que alguém falou sem reassistir o vídeo). Isso nos leva ao próximo tópico.
 
 #### Como fazer reuniões
@@ -63,7 +62,7 @@ Para que elas sejam tão efetivas quanto é possível, uma vez que você marque 
 
 #### Organização do projeto
 Para projetos conduzidos remotamente e de forma distribuída, fica mais difícil a supervisão direta. Então é importante ter alguma estrutura na organização, para que as pessoas saibam o que fazer e as responsabilidades de cada pessoa fiquem claras, assim como o plano para o projeto.
-- Como dito acima, cada projeto deve ter uma página  de documentação que sirva de índice para os arquivos de trabalho e outras coisas relevantes.
+- Como dito acima, é importante que projetos tenham alguma página central de documentação que sirva de índice para os arquivos de trabalho e outras coisas relevantes. Normalmente isso vive na memória das pessoas envolvidas, é preciso tornar isso explícito.
 - Recomendamos que cada grupo de trabalho tenha tenha um "gerente". Essa pessoa não é dona do grupo, só é responsável por marcar e conduzir reuniões ou manter a documentação atualizada.
 
 
