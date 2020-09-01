@@ -48,17 +48,17 @@ Se as pessoas não estão do seu lado, pessoalmente, a maior parte da comunicaç
 Uma piada recorrente do mundo corporativo é ["sobrevivi a mais uma reunião que devia ter sido um email"][13]. Por extensão, um monte de gente deve "sobreviver a emails que deviam ter sido uma mensagem" e "sobreviver a uma enquete quando a pessoa devia ter decidido sozinha". Existem [argumentos contra reuniões][14] mesmo em ambientes co-localizados de trabalho.
 - Use reuniões por vídeo como último recurso.
 - Não marque reuniões [desnecessariamente][15] (e tudo bem desmarcar reuniões que não são mais necessárias).
-- Por exemplo, se alguém tem que fazer uma apresentação pra demonstrar como usar uma ferramenta, não é necessário que todo mundo esteja online ao mesmo tempo vendo a apresentação. A pessoa pode gravar o vídeo antes, quem precisar assiste no seu tempo. A reunião pode ser encurtada e ter apenas as perguntas/discussão sobre a apresentação. Brainstorming não precisa de todo mundo junto, pode ser por um documento compartilhado (veja a seção de ferramentas no final). Updates regulares do projeto podem ser dados por escrito.
+- Por exemplo, se alguém tem que fazer uma apresentação pra demonstrar como usar uma ferramenta, não é necessário que todo mundo esteja online ao mesmo tempo vendo a apresentação. A pessoa pode gravar o vídeo antes, quem precisar assiste no seu tempo. A reunião pode ser encurtada e ter apenas as perguntas/discussão sobre a apresentação. Brainstorming não precisa de todo mundo junto, pode ser por um documento compartilhado (veja a seção de ferramentas no final). Updates regulares do projeto podem ser dados por escrito (dá até pra gerar lembretes).
 - Vale lembrar também que reuniões por vídeo são ruins por outras razões (por exemplo, não são buscáveis - é difícil saber o que alguém falou sem reassistir o vídeo). Isso nos leva ao próximo tópico.
 
 #### Como fazer reuniões
 Para que elas sejam tão efetivas quanto é possível, uma vez que você marque uma reunião, é sua responsabilidade fazer com que ela funcione. Aqui juntamos pontos cruciais: 
-- Tenha sempre uma pauta para a reunião. Um documento compartilhado (Google Docs ou pad) com os tópicos a serem discutidos. Pré-alocar um tempo para cada tópico também faz milagres na eficiência da reunião. 
+- Tenha sempre uma pauta para a reunião. Um documento compartilhado (Google Docs ou pad) com os tópicos a serem discutidos. Pré-alocar um tempo para cada tópico também faz milagres na eficiência da reunião.
 - Faça uma ata do que foi discutido e tome notas dos pontos importantes e tarefas definidas na reunião.
-- Faça a ata **durante** a reunião. Se deixar pra depois você vai ter que vencer a preguiça (isso assumindo que você lembre tudo o que foi discutido). 
+- Faça a ata *durante* a reunião. Se deixar pra depois você vai ter que vencer a preguiça (isso assumindo que você lembre tudo o que foi discutido). 
 - Reuniões tem que ter horário de início e fim, e eles devem ser seguidos pontualmente. Isso respeita o tempo das outras pessoas e permite que todo mundo se planeje em torno das reuniões.
-- Recomendamos que as reuniões sejam planejadas com uma sobra na duração (e.g. reuniões de 1 hora acabam em :50 minutos, reuniões de 30 min acabam em 25). Isso dá tempo para as pessoas entre reuniões. Esse tempo pode também ser usado como um momento social (veja o tópico "Social estruturado").
-- Grave reuniões importantes. Mas isso não é substituto pra ata - ler ou buscar uma informação num documento é muito mais eficiente do que reassistir 1 hora de reunião (ninguém reassiste, não vamos nos enganar). E qualquer coisa que precisa ser lembrada depois tem que ser enviada por chat (e.g. links importantes).
+- Recomendamos que as reuniões sejam planejadas com uma sobra na duração (e.g. reuniões de 1 hora acabam em :50 minutos, reuniões de 30 min acabam em 25). Isso dá tempo para as pessoas entre reuniões. Esse tempo pode também ser usado como um momento social (veja o tópico *Social estruturado*).
+- Grave reuniões importantes. Mas isso não é substituto pra ata - ler ou buscar uma informação num documento é muito mais eficiente do que reassistir 1 hora de reunião (ninguém reassiste, não vamos nos enganar). E qualquer coisa que precisa ser lembrada depois tem que ser enviada por chat (e.g. links importantes), pra ser fácil de copiar pra ata depois.
 
 #### Organização do projeto
 Para projetos conduzidos remotamente e de forma distribuída, fica mais difícil a supervisão direta. Então é importante ter alguma estrutura na organização, para que as pessoas saibam o que fazer e as responsabilidades de cada pessoa fiquem claras, assim como o plano para o projeto.
@@ -109,14 +109,11 @@ Repositórios/Documentação:
 - [OneDrive + Office][31]: a opção da Microsoft para documentos colaborativos e armazenamento.
 - [Wikimedia Etherpad][32]: Pads são arquivos de texto simples e colaborativos, online, em tempo real. O serviço é baseado no Etherpad, que também é [*libre*][33].
 
-Esse guia se baseia na nossa experiência (não muito vasta) com trabalho remoto colaborativo e em diversos outros guias e ensaios sobre trabalho remoto (linkados no texto). Em particular, aprendemos muito com o material da [GitLab][34], [Zapier][35], Wikipedia, [Friday.app][36] e [Twist][37] - preparar esse guia foi um grande aprendizado e mudou nossa própria opinião sobre como trabalhar remotamente.
+#### Conclusão
+
+Esse guia se baseia na nossa experiência (não muito vasta) com trabalho remoto colaborativo e em diversos outros guias e ensaios sobre trabalho remoto (linkados no texto). Ele foi originalmente pensado para um evento de "mutirão" de  projetos científicos virtuais, a [No Budget Science Hack Week 2020][2], que aconteceu em agosto de 2020, onde muitas dessas ideias foram testadas. Se quiserem ver o Guia de Trabalho Remoto voltado para o evento está disponível no [Open Science Framework][38]. Em particular, aprendemos muito com o material da [GitLab][34], [Zapier][35], Wikipedia, [Friday.app][36] e [Twist][37] - preparar esse guia foi um grande aprendizado e mudou nossa própria opinião sobre como trabalhar remotamente (e não remotamente).
 
 Kleber Neves e Tiago Lubiana
-
-# No Budget Science Hack Week 2020 
-
-
-Ele foi originalmente pensado para um evento de "mutirão" de  projetos científicos virtuais,  [No Budget Science Hack Week 2020][2], que aconteceu em agosto de 2020. Se quiserem ver o Guia de Trabalho Remoto voltado para o evento está disponível no [Open Science Framework][38]. ) 
 
 
 
