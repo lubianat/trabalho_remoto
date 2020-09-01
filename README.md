@@ -112,6 +112,7 @@ Repositórios/Documentação:
 
 **Quadros brancos:**
 - [Miro](https://miro.com/): O Miro  é uma ferramenta para "brainstorming" e organização de ideias.  A interface tem ótima responsividade e funciona bem para atividades simultâneas, com múltiplos usuários. Dá para adicionar notas, textos, setas, balões e muito mais em um quadro "de borda infinita". A versão gratuita permite poucos quadros, mas serve para fins básicos. 
+- [Mentimeter](https://www.mentimeter.com/) O mentimeter é um "quadro branco colaborativo" para interatividade em reuniões; ele é focado em coleta de opinies em tempo real e gera, por exemplo, resultados de pesquisas e nuvens de palavra em tempo real. 
 
 **Colaboração/Compartilhamento de arquivos:**
 
