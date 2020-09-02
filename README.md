@@ -104,7 +104,9 @@ Segue uma lista de ferramentas aqui que conhecemos e podem ser úteis. Contudo, 
 
 - [Slack][24]: permite a criação de canais e threads para separar assuntos. Guarda suas mensagens, permite anexos, tem integração com vários outros softwares (e.g. Dropbox, GitHub, etc). Na versão paga, tem também canais de vídeo e voz.
 - [Discord][25]: faz praticamente tudo que o Slack faz e também chamada de vídeo e voz, na versão gratuita. Carrega um pouco da reputação de não ser "sério" porque tem origem na comunidade gamer (embora esteja passando por um rebranding no momento).
-Repositórios/Documentação:
+
+**Repositórios/Documentação:**
+
 - [Open Science Framework][26]: repositório de dados e documentos para uma ciência mais aberta. Todo projeto na OSF vem com armazenamento e uma wiki. Gratuito, também tem umas conveniências para pesquisa, como fazer pré-registro de protocolos e postar preprints, além de integração com outros serviços (Google Drive, GitHub).
 - Wikis: o formato popularizado pela Wikipédia, é excelente pra organizar documentos interligados.
 - [GitHub][27]: o lugar universal _de facto_ pra disponibilizar código. Se você programa ou pretende começar em breve, vale conhecer. Além disso, o GitHub tem diversas ferramentas para gerenciamento de projetos, incluindo "Kanbans" como o Trello (ver abaixo)
