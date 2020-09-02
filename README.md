@@ -108,11 +108,12 @@ Segue uma lista de ferramentas aqui que conhecemos e podem ser úteis. Contudo, 
 **Repositórios/Documentação:**
 
 - [Open Science Framework][26]: repositório de dados e documentos para uma ciência mais aberta. Todo projeto na OSF vem com armazenamento e uma wiki. Gratuito, também tem umas conveniências para pesquisa, como fazer pré-registro de protocolos e postar preprints, além de integração com outros serviços (Google Drive, GitHub).
-- Wikis: o formato popularizado pela Wikipédia, é excelente pra organizar documentos interligados.
 - [GitHub][27]: o lugar universal _de facto_ pra disponibilizar código. Se você programa ou pretende começar em breve, vale conhecer. Além disso, o GitHub tem diversas ferramentas para gerenciamento de projetos, incluindo "Kanbans" como o Trello (ver abaixo)
+- Wikis: o formato popularizado pela Wikipédia, é excelente pra organizar documentos interligados. GitHub e OSF oferecem wikis como parte do serviço.
 - [Trello][28]: um app muito usado para gerenciamento de projeto/tarefas no esquema de Kanban, com cartões virtuais sendo movidos de "To Do" para "Doing" para "Done". A versão gratuita funciona bem para grupos pequenos.
 
 **Quadros brancos:**
+
 - [Miro](https://miro.com/): O Miro  é uma ferramenta para "brainstorming" e organização de ideias.  A interface tem ótima responsividade e funciona bem para atividades simultâneas, com múltiplos usuários. Dá para adicionar notas, textos, setas, balões e muito mais em um quadro "de borda infinita". A versão gratuita permite poucos quadros, mas serve para fins básicos. 
 - [Mentimeter](https://www.mentimeter.com/) O mentimeter é um "quadro branco colaborativo" para interatividade em reuniões; ele é focado em coleta de opinies em tempo real e gera, por exemplo, resultados de pesquisas e nuvens de palavra em tempo real. 
 
@@ -123,9 +124,11 @@ Segue uma lista de ferramentas aqui que conhecemos e podem ser úteis. Contudo, 
 - [OneDrive + Office][31]: a opção da Microsoft para documentos colaborativos e armazenamento.
 - [Wikimedia Etherpad][32]: Pads são arquivos de texto simples e colaborativos, online, em tempo real. O serviço é baseado no Etherpad, que também é [*libre*][33].
 
-**Formulários**
+**Formulários:**
+
  - [Doodle](https://doodle.com/en/): O Doodle é a ferramenta padrão para encontrar horário para reuniões. Cuidado na hora de usar! Normalmente, para reuniões pequenas, é mais fácil alguém escolher um horário, e todos veem se podem ou não. 
-- [Google Forms](https://docs.google.com/forms/u/0/?tgif=d): É fácil de usar, muito conhecido e devolve resultados em diversos formatos. É a opção "feijão com arroz", que funciona bem para a maioria dos casos. 
+- [Google Forms](https://docs.google.com/forms/u/0/?tgif=d): É fácil de usar, muito conhecido e devolve resultados em diversos formatos. É a opção "feijão com arroz", que funciona bem para a maioria dos casos.
+- [Microsoft Forms](https://forms.office.com/): A opção "feijão com arroz" da Microsft. 
 - [Typeform](https://www.typeform.com/product/): Faz o mesmo que o Google Forms, mas com possibilidades de estilização e "experiência" diferentes. Pode ser uma opção para sair do lugar comum, se desejar. 
 
 #### Conclusão
